@@ -40,4 +40,4 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
 > **Below here you will find a complete and itemized description of every module, and its changes. its recomended to not look in this section if you wish to experience the mod for youself.**
 
 > [!CAUTION]
-> ## rgb(255,0,0) SPOILER WARNING
+> ### SPOILER WARNING
