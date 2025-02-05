@@ -37,7 +37,7 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
   * Add more legbinder type restraints to the game. also, tweak the existing vanilla legbinders, as some of them need some love.
 
 > [!WARNING]
-> Below here you will find a complete and itemized description of every module, and its changes. its recomended to not look in this section if you wish to experience the mod for youself.
+> **Below here you will find a complete and itemized description of every module, and its changes. its recomended to not look in this section if you wish to experience the mod for youself.**
 
 > [!CAUTION]
-> # SPOILER WARNING
+> ## `rgb(R,G,B)` SPOILER WARNING
