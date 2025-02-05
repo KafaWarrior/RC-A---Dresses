@@ -44,3 +44,11 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
 
 ## Complete explanation of the modules in detail
 
+ ### RC&A - Dresses
+ * Adds more Dress type restraints wich work in similar fashion to how Transport Jackets work in game.
+ ### RC&A - Mittens
+ * Adds more Mitten type restraints wich work in similar fashion to how Transport Jackets work in game. Also it adds mittens for some factions that dont have them.
+ ### RC&A - Vanilla Dresses Tweaks
+ * Modifies certain aspects of the vanilla Dress type restraints
+ ### RC&A - Vanilla Gag Tweaks
+ * Modifies certain aspects of the vanilla Gag´s both to improve balance and fix thigs that dont make sense.
