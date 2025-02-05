@@ -26,18 +26,18 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
 * RC&A - Petsuits
   * Add more petsuit type restraints to the game.
 * RC&A - Straightjackets
-  * add more straightjacket type restraints to the game. also, make it so straightjackets are stronger than box/arm binders
+  * Add more straightjacket type restraints to the game. also, make it so straightjackets are stronger than box/arm binders
 * RC&A - Boxbinders
-  * add more Boxbinder type restraints to the game. also, make it so Boxbinders are stronger than arm binders.
+  * Add more Boxbinder type restraints to the game. also, make it so Boxbinders are stronger than arm binders.
 * RC&A - Vibes
-  * add more types of Vibrators to the game.
+  * Add more types of Vibrators to the game.
 * RC&A - Harnesses
-  * add more Harnesses to the game, and give particular harnesses some abilities (e.g.: integrated vibrator with the harness)
+  * Add more Harnesses to the game, and give particular harnesses some abilities (e.g.: integrated vibrator with the harness)
 * RC&A - Legbinder
-  * add more legbinder type restraints to the game. also, tweak the existing vanilla legbinders, as some of them need some love.
+  * Add more legbinder type restraints to the game. also, tweak the existing vanilla legbinders, as some of them need some love.
 
 > [!WARNING]
 > Below here you will find a complete and itemized description of every module, and its changes. its recomended to not look in this section if you wish to experience the mod for youself.
 
 > [!CAUTION]
-> #SPOILER WARNING
+> # SPOILER WARNING
