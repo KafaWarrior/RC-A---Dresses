@@ -10,7 +10,7 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
 
 > [!NOTE]
 > Below here you will find a list of all the modules that ive done for the mod and a brief description of them without any major spoilers.
-> If you are looking for a Detailed and itemized list of all the exact changes and additions that any of the specific Modules do, head to here
+> If you are looking for a Detailed and itemized list of all the exact changes and additions that any of the specific Modules do, head to [HERE](## Complete explanation of the modules in detail)
 
 ## Restraint Collection And Adittions: Module List
 * RC&A - Dresses
@@ -41,3 +41,6 @@ So if there are any issues like bugs, balance issues or suggestions, feel free t
 
 > [!CAUTION]
 > ### SPOILER WARNING
+
+## Complete explanation of the modules in detail
+
